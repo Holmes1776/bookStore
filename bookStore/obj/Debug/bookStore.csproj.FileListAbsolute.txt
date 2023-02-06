@@ -1,0 +1,8 @@
+C:\Users\Redux\source\repos\bookStore\bookStore\bin\Debug\bookStore.exe.config
+C:\Users\Redux\source\repos\bookStore\bookStore\bin\Debug\bookStore.exe
+C:\Users\Redux\source\repos\bookStore\bookStore\bin\Debug\bookStore.pdb
+C:\Users\Redux\source\repos\bookStore\bookStore\obj\Debug\bookStore.csproj.AssemblyReference.cache
+C:\Users\Redux\source\repos\bookStore\bookStore\obj\Debug\bookStore.csproj.SuggestedBindingRedirects.cache
+C:\Users\Redux\source\repos\bookStore\bookStore\obj\Debug\bookStore.csproj.CoreCompileInputs.cache
+C:\Users\Redux\source\repos\bookStore\bookStore\obj\Debug\bookStore.exe
+C:\Users\Redux\source\repos\bookStore\bookStore\obj\Debug\bookStore.pdb
